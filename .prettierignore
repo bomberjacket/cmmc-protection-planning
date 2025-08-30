@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+build/
+*.log
+.vercel
+.env*
+package-lock.json
+yarn.lock
